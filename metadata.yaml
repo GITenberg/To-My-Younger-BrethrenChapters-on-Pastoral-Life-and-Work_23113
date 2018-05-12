@@ -1,0 +1,30 @@
+_repo: To-My-Younger-BrethrenChapters-on-Pastoral-Life-and-Work_23113
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moule, H. C. G. (Handley Carr Glyn)
+    aliases:
+    - Moule, Handley C. G. (Handley Carr Glyn)
+    - Moule, Handley Carr Glyn, Bp. of Durham
+    birthdate: 1841
+    deathdate: 1920
+    gutenberg_agent_id: '25684'
+    url: http://www.gutenberg.org/2009/agents/25684
+    wikipedia: http://en.wikipedia.org/wiki/Handley_Moule
+description: ''
+gutenberg_issued: '2007-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23113'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Pastoral theology'
+title: 'To My Younger Brethren: Chapters on Pastoral Life and Work'
+url: http://www.gutenberg.org/ebooks/23113
